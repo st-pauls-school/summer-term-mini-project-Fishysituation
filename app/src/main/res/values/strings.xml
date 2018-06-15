@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Lick</string>
+    <string name="button_text">Play the Lick</string>
+    <string name="lick_count">Lick Counter:</string>
+</resources>
